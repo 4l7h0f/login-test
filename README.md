@@ -60,7 +60,7 @@ npm run watch
 ## Help
 
 Any advise for common problems or issues please go to 
-[SalesInventory](https://github.com/4l7h0f/login-test/issues)
+[LoginTest](https://github.com/4l7h0f/login-test/issues)
 
 
 ## Authors
